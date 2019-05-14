@@ -24,7 +24,7 @@
     'category': 'Point of Sale',
     'license': 'AGPL-3',
     'author': 'Element Green <element@regenesismedia.com>',
-    'website': 'https://github.com/elementgreen/pos_calc_discount',
+    'website': 'https://github.com/elementgreen/odoo-apps',
 
     'description': """
 
